@@ -2,7 +2,7 @@
 name:        Lukáš Kolářík
 layout:      lide
 order:       2
-img:         lukas-kolarik.jpg
+img:         lukas-kolarik.JPG
 description: živnostník, správa sítě, servis IT
 ---
 
