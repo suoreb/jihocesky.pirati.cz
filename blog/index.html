@@ -1,8 +1,15 @@
 ---
+title: Články
 layout: page
+description: Pirátské články z jížních čech
+keywords: články, jihočeši, politika, pohled
 ---
 
-<br>
+<section>
+  {% for post in paginator.posts %}
+  {% include shared/articlesumary.html %}
+  {% endfor %}
+</section>
 
 <div class="row" style="min-height: 550px;">
   <div class="columns large-7">
