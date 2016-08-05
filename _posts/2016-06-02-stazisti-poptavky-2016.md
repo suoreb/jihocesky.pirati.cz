@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: blog
 category: blog
 tags: stáž volby2016 lídr
 title: "Nabízíme stáže pro krajské volby 2016"
-image: pirlisty-franta-filip-2016.jpg
+image: /assets/img/posts/pirlisty-franta-filip-2016.jpg
 author: Viktor Mahrik
 date: 2016-06-02
 ---
