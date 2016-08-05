@@ -1,6 +1,6 @@
 ---
 name:        Lukáš Kolářík
-layout:      lide
+layout:      page
 order:       2
 img:         lukas-kolarik.JPG
 description: živnostník, správa sítě, servis IT
@@ -10,4 +10,4 @@ description: živnostník, správa sítě, servis IT
 
 Vystudoval obor Elektronické počítačové systémy na SOŠ Blatná a po krátké zastávce ve strojírenském průmyslu byl zaměstnán jako obchodník s výpočetní technikou a následně jako vedoucí servisu v téže společnosti. Nasledně získával další zkušenosti z oboru jako IT servisní a reklamační technik, garant servisu a hotline podpory produktů významného výrobce PC komponent a příslušenství. Zbylý čas věnoval HW opravám základních desek a grafických karet. Jeho další důležitou životní etapou bylo pětileté zaměstnaní jako Manažer prodejny se spotřební elektronikou (500m2), kde byl plně zodpovědný za celkový chod obchodu, jeho hospodářské výsledky, marketingové aktivity v regionu a zároveň budoval obchodní tým deseti prodejců. Toto vše zdokonalilo jeho komunikační a obchodní dovednosti, empatii, asertivitu, umění vést a vyjednávat a naučil se být rozhodný a spravedlivý.
 
-V tuto chvíli se živí jako OSVČ v oborech servisní práce na síti, elektroinstalace, montáže DVB-T/S rozvodů, výroba a servis elektronických zařízení, fotografické práce a zprostředkování služeb. Zároveň je místopředseda občanského sdružení RallyFans Katovice, má tři děti, je bystrý, komunikativní, přátelský, přístupný všem názorům, schopen kompromisu a je pro každou srandu. Osobnostní typ ENFP. 
+V tuto chvíli se živí jako OSVČ v oborech servisní práce na síti, elektroinstalace, montáže DVB-T/S rozvodů, výroba a servis elektronických zařízení, fotografické práce a zprostředkování služeb. Zároveň je místopředseda občanského sdružení RallyFans Katovice, má tři děti, je bystrý, komunikativní, přátelský, přístupný všem názorům, schopen kompromisu a je pro každou srandu. Osobnostní typ ENFP.

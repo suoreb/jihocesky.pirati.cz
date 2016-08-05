@@ -1,6 +1,6 @@
 ---
 name:        Vladimír Šebor
-layout:      lide
+layout:      page
 order:       5
 img:         vladimir-sebor.jpg
 description: Živnostník, správce datových sítí, aktivista
@@ -10,4 +10,4 @@ description: Živnostník, správce datových sítí, aktivista
 
 Byl zakládající člen a první předseda občasnkého sdružení "Záchrana Ratajska a Podvecka - Stařechov", které vzniklo za účelem ochrany přírody a zamezení otevření kamenolomu v této lokalitě. V komunálních volbách kandidoval do zastupitelstva obce. Přestože se zastupitelem nestal, aktivně pracuje v opozici.
 
-Baví ho kultura, umění a architektura. Zajímá se o urbanistickou zástavbu, využití obnovitelných zdrojů energie a umělou inteligenci. 
+Baví ho kultura, umění a architektura. Zajímá se o urbanistickou zástavbu, využití obnovitelných zdrojů energie a umělou inteligenci.
