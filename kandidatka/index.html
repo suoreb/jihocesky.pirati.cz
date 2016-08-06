@@ -5,15 +5,27 @@ description: Kandidátní listina České pirátské strany pro volby do zastupi
 keywords: volby, jihočeši, politika, kandidátka
 ---
 
-<p>Kandidátní listina České pirátské strany pro volby do zastupitelstva Jihočeského kraje konané ve dnech 7. a 8. října 2016.</p>
+<p>Kandidátní listina <a href="http://pirati.cz" target="_blank">České pirátské strany</a> pro volby do zastupitelstva Jihočeského kraje konané ve dnech 7. a 8. října 2016.</p>
 
 <div class="row small-up-1 medium-up-2 large-up-3">
   {% for item in site.data.kandidatka %}
   <article class="column">
-    <img src="{{ item.photo }}" alt="fotka {{ item.name }}" class="people" />
-    <h3>{{forloop.index}}. {{ item.name }}</h3>
-    <p>{{ item.town }}, {{ item.member }}, ({{ item.age }} let)</p>
-    <a href="{{ item.profilelink }}">Profil</a>
+    <div class="media-object">
+      <div class="media-object-section">
+        <div class="thumbnail">
+          <img src="{{ item.photo }}" alt="fotka {{ item.name }}" class="people img-responsive" />
+        </div>
+      </div>
+      <div class="media-object-section">
+        <h5>{{forloop.index}}. {{ item.name }}</h5>
+        <p>
+          {{ item.work }}</br>
+          {{ item.town }}</br>
+          {{ item.member }}, ({{ item.age }} let)</br>
+          <a href="{{ item.profilelink }}">Profil</a>
+        </p>
+      </div>
+    </div>
   </article>
   {% endfor %}
 </div>
